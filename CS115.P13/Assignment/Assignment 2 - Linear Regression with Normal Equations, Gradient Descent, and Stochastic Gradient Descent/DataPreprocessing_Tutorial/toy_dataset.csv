@@ -1,0 +1,13 @@
+﻿ID,Age,Sex,Height,Grade,Rich?
+1,21,Male,171,Good,Yes
+2,20,Male,170,Bad,No
+3,19,Female,,Bad,No
+4,17,Male,165,Excellent,Yes
+5,,Female,166,Good,Yes
+6,,Female,180,Excellent,Yes
+7,30,Male,170,Good,No
+8,60,Male,,Bad,No
+9,20,Female,167,,Yes
+10,21,Male,290,Good,Yes
+11,22,Female,190,,No
+12,,Male,163,,Yes
