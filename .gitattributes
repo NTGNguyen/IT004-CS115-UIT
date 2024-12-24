@@ -1,0 +1,6 @@
+# Ignore .ipynb files from language stats
+*.ipynb linguist-ignore
+
+# You can also add other file types here, like:
+# Ignore all files in node_modules directory
+node_modules/** linguist-vendored
